@@ -1,0 +1,1 @@
+docker exec -it webdb mysql -psecret
